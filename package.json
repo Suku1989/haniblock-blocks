@@ -1,13 +1,13 @@
 {
-  "name": "openblock-blocks",
-  "version": "0.1.0",
-  "description": "OpenBlock Blocks is a library for building creative computing interfaces.",
+  "name": "haniblock-blocks",
+  "version": "1.0.0",
+  "description": "HaniBlock Blocks is a library for building creative computing interfaces.",
   "author": "Massachusetts Institute of Technology",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/openblockcc/openblock-blocks#readme",
+  "homepage": "https://github.com/suku1989/haniblock-blocks#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openblockcc/openblock-blocks.git"
+    "url": "https://github.com/suku1989/haniblock-blocks.git"
   },
   "main": "./dist/vertical.js",
   "browser": "./shim/vertical.js",
@@ -29,7 +29,7 @@
     "exports-loader": "0.6.3",
     "google-closure-library": "20190301.0.0",
     "imports-loader": "0.6.5",
-    "openblock-l10n": "^3.10.20220304103031"
+    "haniblock-l10n": "suku1989/haniblock-l10n#develop"
   },
   "devDependencies": {
     "async": "2.6.3",
